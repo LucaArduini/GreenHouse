@@ -1,3 +1,6 @@
+Project for the "**Internet of Things**" class (2022-23) at Pisa University.<br>
+Group work carried out by the students: [Luca Arduini](https://github.com/LucaArduini), [Davide Bruni](https://github.com/DavideBruni).
+
 # GreenHouse+ (previous name: SmartGreenHouse)
 It's project deployed for the IoT course at the University of Pisa Artificial Intelligence & Data Engineering Master's Degree. <br>
 <b> Greenhouse+ </b> is an IoT system for the automation of frequent procedures in a smart greenhouse. In this project, we leverage smart sensors to monitor and optimize four key factors within the greenhouse: light intensity, temperature, soil moisture, and CO2 levels. Through the use of advanced sensor technology our goal is to enhance the efficiency, productivity, and sustainability of greenhouse cultivation. <br>
